@@ -1,5 +1,5 @@
 {
-  "students": [
+  "student": [
     {
       "id": 1,
       "googleId": "400833",
@@ -21,7 +21,7 @@
       ]
     }
   ],
-  "instructors": [
+  "instructor": [
     {
       "id": 1,
       "googleId": "23423",
@@ -31,7 +31,7 @@
       "bio": "I,m a nice and loving instructor, always ready to abide by the rules"
     }
   ],
-  "tutorials": [
+  "tutorial": [
     {
       "id": 1,
       "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
