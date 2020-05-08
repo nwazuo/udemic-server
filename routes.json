@@ -1,0 +1,3 @@
+{
+"/tutorial/:category": "/tutorial?category=:category"
+}
