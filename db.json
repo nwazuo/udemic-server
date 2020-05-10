@@ -1,85 +1,95 @@
 {
   "students": [
     {
-    "email": "nwazuochizo@gmail.com",
-    "googleId": "113361039237779455211",
-    "imageUrl": "https://lh6.googleusercontent.com/-vyO4vInXet0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXSNh_R-kgsqJxzGAEFL7pi6el2A/s96-c/photo.jpg",
-    "lastName": "nwazuo",
-    "firstName": "chizo",
-    "starred": [],
-    "favorites": [],
-    "id": 2
-  }
+      "email": "nwazuochizo@gmail.com",
+      "googleId": "113361039237779455211",
+      "imageUrl": "https://lh6.googleusercontent.com/-vyO4vInXet0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXSNh_R-kgsqJxzGAEFL7pi6el2A/s96-c/photo.jpg",
+      "lastName": "nwazuo",
+      "firstName": "chizo",
+      "id": 2
+    }
   ],
   "instructors": [
     {
-    "email": "nwazuochizo@gmail.com",
-    "googleId": "113361039237779455211",
-    "imageUrl": "https://lh6.googleusercontent.com/-vyO4vInXet0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXSNh_R-kgsqJxzGAEFL7pi6el2A/s96-c/photo.jpg",
-    "lastName": "nwazuo",
-    "firstName": "chizo",
-    "bio": "If you care about bio's then the feature to edit them is coming soon",
-    "id": 2
-  }
+      "email": "nwazuochizo@gmail.com",
+      "googleId": "113361039237779455211",
+      "imageUrl": "https://lh6.googleusercontent.com/-vyO4vInXet0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXSNh_R-kgsqJxzGAEFL7pi6el2A/s96-c/photo.jpg",
+      "lastName": "nwazuo",
+      "firstName": "chizo",
+      "bio": "If you care about bio's then the feature to edit them is coming soon",
+      "id": 2
+    }
   ],
-  "tutorials": [
+  "videos": [
     {
-    "id": 1,
-    "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
-    "createdAt": "2019-03-14T10:59:52.798Z",
-    "starsCount": 24,
-    "category": "Web Design",
-    "title": "Learn Redux for free in 10 seconds",
-    "description": "You are gonna learn redux for free in this super-short tutorial, like you were an alien",
-    "createdBy": "23423"
-  },
-  {
-    "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.mp4",
-    "createdAt": "2020-05-08T21:08:56.835Z",
-    "starsCount": 0,
-    "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.jpg",
-    "category": "know",
-    "title": "Greatest of all time",
-    "description": "The greates t of all time is here to do what no man can do y es he is god",
-    "createdBy": "113361039237779455211",
-    "instructorName": "nwazuo chizo",
-    "id": 2
-  },
-  {
-    "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972191/sample/ty124b4d79fsa19aaq3d.mp4",
-    "createdAt": "2020-05-08T21:09:55.596Z",
-    "starsCount": 0,
-    "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972191/sample/ty124b4d79fsa19aaq3d.jpg",
-    "category": "Redux",
-    "title": "Learn Redux in 10 secs",
-    "description": "THe world is a scaryplce with casssava flakes and morning melosn acre",
-    "createdBy": "113361039237779455211",
-    "instructorName": "nwazuo chizo",
-    "id": 3
-  },
-  {
-    "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972243/sample/qonve8atxjep7it5wffb.mp4",
-    "createdAt": "2020-05-08T21:10:47.605Z",
-    "starsCount": 0,
-    "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972243/sample/qonve8atxjep7it5wffb.jpg",
-    "category": "asdifjljkl ",
-    "title": "Learn Redux in no time at all",
-    "description": "THere si a asweet annointing tin this sancuat , there is a stillness in the atmostprere . ome and lay down, the burderns you have carried for in this sanctuary cgod is here",
-    "createdBy": "113361039237779455211",
-    "instructorName": "nwazuo chizo",
-    "id": 4
-  }
+      "id": 1,
+      "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
+      "createdAt": "2019-03-14T10:59:52.798Z",
+      "starsCount": 24,
+      "category": "Web Design",
+      "title": "Learn Redux for free in 10 seconds",
+      "description": "You are gonna learn redux for free in this super-short tutorial, like you were an alien",
+      "createdBy": "23423"
+    },
+    {
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.mp4",
+      "createdAt": "2020-05-08T21:08:56.835Z",
+      "starsCount": 0,
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.jpg",
+      "category": "know",
+      "title": "Greatest of all time",
+      "description": "The greates t of all time is here to do what no man can do y es he is god",
+      "createdBy": "113361039237779455211",
+      "instructorName": "nwazuo chizo",
+      "id": 2
+    },
+    {
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972191/sample/ty124b4d79fsa19aaq3d.mp4",
+      "createdAt": "2020-05-08T21:09:55.596Z",
+      "starsCount": 0,
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972191/sample/ty124b4d79fsa19aaq3d.jpg",
+      "category": "Redux",
+      "title": "Learn Redux in 10 secs",
+      "description": "THe world is a scaryplce with casssava flakes and morning melosn acre",
+      "createdBy": "113361039237779455211",
+      "instructorName": "nwazuo chizo",
+      "id": 3
+    },
+    {
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972243/sample/qonve8atxjep7it5wffb.mp4",
+      "createdAt": "2020-05-08T21:10:47.605Z",
+      "starsCount": 0,
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972243/sample/qonve8atxjep7it5wffb.jpg",
+      "category": "asdifjljkl ",
+      "title": "Learn Redux in no time at all",
+      "description": "THere si a asweet annointing tin this sancuat , there is a stillness in the atmostprere . ome and lay down, the burderns you have carried for in this sanctuary cgod is here",
+      "createdBy": "113361039237779455211",
+      "instructorName": "nwazuo chizo",
+      "id": 4
+    }
   ],
   "favorites": [
     {
-    "tutorialId":2,
-    "studentId": 2,
-    "id": 1
+      "videoId": 2,
+      "studentId": 2,
+      "id": 1
     },
     {
-      "tutorialId":3,
+      "videoId": 3,
       "studentId": 2,
       "id": 2
-      }
+    }
+  ],
+  "starred": [
+    {
+      "id": 1,
+      "videoId": 3,
+      "studentId": 2
+    },
+    {
+      "id": 2,
+      "videoId": 4,
+      "studentId": 2
+    }
   ]
 }
