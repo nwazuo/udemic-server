@@ -1,5 +1,5 @@
 {
-  "student": [
+  "students": [
     {
     "email": "nwazuochizo@gmail.com",
     "googleId": "113361039237779455211",
@@ -11,7 +11,7 @@
     "id": 2
   }
   ],
-  "instructor": [
+  "instructors": [
     {
     "email": "nwazuochizo@gmail.com",
     "googleId": "113361039237779455211",
@@ -22,7 +22,7 @@
     "id": 2
   }
   ],
-  "tutorial": [
+  "tutorials": [
     {
     "id": 1,
     "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
@@ -69,5 +69,17 @@
     "instructorName": "nwazuo chizo",
     "id": 4
   }
+  ],
+  "favorites": [
+    {
+    "tutorialId":2,
+    "studentId": 2,
+    "id": 1
+    },
+    {
+      "tutorialId":3,
+      "studentId": 2,
+      "id": 2
+      }
   ]
 }
