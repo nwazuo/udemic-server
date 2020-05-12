@@ -25,7 +25,7 @@
       "id": 1,
       "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
       "createdAt": "2019-03-14T10:59:52.798Z",
-      "starsCount": 24,
+      "starsCount": 0,
       "category": "Web Design",
       "title": "Learn Redux for free in 10 seconds",
       "description": "You are gonna learn redux for free in this super-short tutorial, like you were an alien",
@@ -81,15 +81,5 @@
     }
   ],
   "starred": [
-    {
-      "id": 1,
-      "videoId": 3,
-      "studentId": 2
-    },
-    {
-      "id": 2,
-      "videoId": 4,
-      "studentId": 2
-    }
-  ]
+     ]
 }
