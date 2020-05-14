@@ -7,13 +7,21 @@
       "lastName": "nwazuo",
       "firstName": "chizo",
       "id": 2
+    },
+    {
+      "email": "wizzyajuzie@gmail.com",
+      "googleId": "117934774286509288828",
+      "imageUrl": "http://res.cloudinary.com/udemic/image/upload/v1589490490/sample/iwog83zomz9nlzvkp5lt.jpg",
+      "lastName": "WISDOM",
+      "firstName": "OJO",
+      "id": 3
     }
   ],
   "instructors": [
     {
       "email": "nwazuochizo@gmail.com",
       "googleId": "113361039237779455211",
-      "imageUrl": "https://lh6.googleusercontent.com/-vyO4vInXet0/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJMXSNh_R-kgsqJxzGAEFL7pi6el2A/s96-c/photo.jpg",
+      "imageUrl": "http://res.cloudinary.com/udemic/image/upload/v1589494532/sample/rktfifqtfwyh854c7lg5.jpg",
       "lastName": "nwazuo",
       "firstName": "chizo",
       "bio": "If you care about bio's then the feature to edit them is coming soon",
@@ -22,47 +30,53 @@
   ],
   "videos": [
     {
-      "id": 1,
-      "videoUrl": "http://api.cloudinary.net/redux-free29343.png",
-      "createdAt": "2019-03-14T10:59:52.798Z",
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1589492097/sample/eptdiuz0hdiahfi0dmwh.mp4",
+      "publicId": "sample/eptdiuz0hdiahfi0dmwh",
+      "createdAt": "2020-05-14T21:35:06.460Z",
       "starsCount": 0,
-      "category": "Web Design",
-      "title": "Learn Redux for free in 10 seconds",
-      "description": "You are gonna learn redux for free in this super-short tutorial, like you were an alien",
-      "createdBy": "23423"
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1589492097/sample/eptdiuz0hdiahfi0dmwh.jpg",
+      "category": "Unity",
+      "title": "Do the Impossible with a Unity C++ Engine",
+      "description": "This video tutorial will teach you how to use unity 3d's unreal engine to render and work with 3d graphics that are life-like. You would need a lot of computing power to actually do this despite the render optimizations that unreal engine 5 brings",
+      "createdBy": "113361039237779455211",
+      "instructorName": "nwazuo chizo",
+      "id": 1
     },
     {
-      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.mp4",
-      "createdAt": "2020-05-08T21:08:56.835Z",
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1589492198/sample/d0ljrwnybeufbsramjol.mp4",
+      "publicId": "sample/d0ljrwnybeufbsramjol",
+      "createdAt": "2020-05-14T21:38:19.886Z",
       "starsCount": 0,
-      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972128/sample/y6kpt9oxcb9t6ptxf2cf.jpg",
-      "category": "know",
-      "title": "Greatest of all time",
-      "description": "The greates t of all time is here to do what no man can do y es he is god",
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1589492198/sample/d0ljrwnybeufbsramjol.jpg",
+      "category": "everyday",
+      "title": "Getting Better at every day living",
+      "description": "This video is all about getting better at everyday living. This is a demo description and may or may not describe the actual content of the video in detail or not. Can you please stop reading? You're still reading?",
       "createdBy": "113361039237779455211",
       "instructorName": "nwazuo chizo",
       "id": 2
     },
     {
-      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972191/sample/ty124b4d79fsa19aaq3d.mp4",
-      "createdAt": "2020-05-08T21:09:55.596Z",
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1589497760/sample/yzeavoegqtizqm4dshmq.mp4",
+      "publicId": "sample/yzeavoegqtizqm4dshmq",
+      "createdAt": "2020-05-14T23:09:26.720Z",
       "starsCount": 0,
-      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972191/sample/ty124b4d79fsa19aaq3d.jpg",
-      "category": "Redux",
-      "title": "Learn Redux in 10 secs",
-      "description": "THe world is a scaryplce with casssava flakes and morning melosn acre",
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1589497760/sample/yzeavoegqtizqm4dshmq.jpg",
+      "category": "Binge",
+      "title": "React + Redux Tutorial Binge",
+      "description": "This video would present various channels to binge react and redux tutorials and why I like each and what each can offer",
       "createdBy": "113361039237779455211",
       "instructorName": "nwazuo chizo",
       "id": 3
     },
     {
-      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1588972243/sample/qonve8atxjep7it5wffb.mp4",
-      "createdAt": "2020-05-08T21:10:47.605Z",
-      "starsCount": 0,
-      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1588972243/sample/qonve8atxjep7it5wffb.jpg",
-      "category": "asdifjljkl ",
-      "title": "Learn Redux in no time at all",
-      "description": "THere si a asweet annointing tin this sancuat , there is a stillness in the atmostprere . ome and lay down, the burderns you have carried for in this sanctuary cgod is here",
+      "videoUrl": "http://res.cloudinary.com/udemic/video/upload/v1589497856/sample/safhuoy7y1ez6hoifnu8.mp4",
+      "publicId": "sample/safhuoy7y1ez6hoifnu8",
+      "createdAt": "2020-05-14T23:11:02.092Z",
+      "starsCount": 1,
+      "thumbnail": "https://res.cloudinary.com/udemic/video/upload/w_200,h_200,c_fit/v1589497856/sample/safhuoy7y1ez6hoifnu8.jpg",
+      "category": "Robotics",
+      "title": "Making Robots For Beginners",
+      "description": "This video would introduce the basics of making children robots so you can make some and give to your wonderful kids. Cheers!",
       "createdBy": "113361039237779455211",
       "instructorName": "nwazuo chizo",
       "id": 4
@@ -70,16 +84,16 @@
   ],
   "favorites": [
     {
-      "videoId": 2,
-      "studentId": 2,
-      "id": 1
-    },
-    {
       "videoId": 3,
       "studentId": 2,
-      "id": 2
+      "id": 1
     }
   ],
   "starred": [
-     ]
+    {
+      "videoId": 4,
+      "studentId": 2,
+      "id": 1
+    }
+  ]
 }
